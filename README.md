@@ -6,7 +6,8 @@ To develop a Django application to store and retrieve data from a Book database 
 
 ## Entity Relationship Diagram
 
-![image](https://github.com/Tharun-1000/ORM/assets/135952958/a4d5887e-bc83-424d-a6ff-7d77b133bf6b)
+![er,](https://github.com/Tharun-1000/ORM/assets/135952958/b22c9252-cb65-42f3-9c4a-a12ea41ee1bd)
+
 
 
 ## DESIGN STEPS
@@ -48,8 +49,8 @@ class book_DBAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
+![png db,](https://github.com/Tharun-1000/ORM/assets/135952958/ca7037b3-d525-45cd-97ee-3e53d45dbdd6)
 
-![png 2,](https://github.com/Tharun-1000/ORM/assets/135952958/4f86ba90-d93a-4212-af31-7cc44cd43796)
 
 
 ## RESULT
